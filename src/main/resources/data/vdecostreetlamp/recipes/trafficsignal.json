@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    " Y ",
+    "IGI"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "Y": {
+      "item": "minecraft:glowstone"
+    },
+    "G": {
+      "item": "minecraft:emerald_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "vdecostreetlamp:trafficsignal",
+    "count": 1
+  }
+}
