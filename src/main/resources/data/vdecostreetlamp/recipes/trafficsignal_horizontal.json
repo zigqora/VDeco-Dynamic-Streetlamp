@@ -8,5 +8,6 @@
   "result": {
     "item": "vdecostreetlamp:trafficsignal_horizontal",
     "count": 1
-  }
+  },
+  "show_notification": true
 }

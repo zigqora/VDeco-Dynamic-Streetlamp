@@ -70,13 +70,13 @@ public class ModBlocks {
             new TrafficSignalBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).nonOpaque()
                     .luminance(state -> (state.get(TrafficSignalBlock.RED) ||
                             state.get(TrafficSignalBlock.YELLOW) ||
-                            state.get(TrafficSignalBlock.GREEN)) ? 15 : 0)));
+                            state.get(TrafficSignalBlock.GREEN)) ? 10 : 0)));
 
     public static final Block TRAFFIC_SIGNAL_HORIZONTAL = registerBlock("trafficsignal_horizontal",
             new TrafficSignalBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).nonOpaque()
                     .luminance(state -> (state.get(TrafficSignalBlock.RED) ||
                             state.get(TrafficSignalBlock.YELLOW) ||
-                            state.get(TrafficSignalBlock.GREEN)) ? 15 : 0)));
+                            state.get(TrafficSignalBlock.GREEN)) ? 10 : 0)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

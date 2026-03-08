@@ -22,5 +22,6 @@
   "result": {
     "item": "vdecostreetlamp:trafficsignal",
     "count": 1
-  }
+  },
+  "show_notification": true
 }

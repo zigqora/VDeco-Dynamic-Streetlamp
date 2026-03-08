@@ -5,45 +5,45 @@
       "state": {
         "red": "true"
       },
-      "color": "255, 0, 0, 255",
-      "radius": 12
+      "color": "255, 0, 0, 180",
+      "radius": 8
     },
     {
       "block": "vdecostreetlamp:trafficsignal",
       "state": {
         "yellow": "true"
       },
-      "color": "255, 180, 0, 255",
-      "radius": 12
+      "color": "255, 180, 0, 180",
+      "radius": 8
     },
     {
       "block": "vdecostreetlamp:trafficsignal",
       "state": {
         "green": true
       },
-      "color": "0, 255, 0, 255",
-      "radius": 12
+      "color": "0, 255, 0, 180",
+      "radius": 8
     },
     {
       "block": "vdecostreetlamp:trafficsignal_horizontal",
-      "color": "#ff0000",
-      "radius": 10,
+      "color": "255, 0, 0, 180",
+      "radius": 8,
       "state": {
         "red": true
       }
     },
     {
       "block": "vdecostreetlamp:trafficsignal_horizontal",
-      "color": "#ffff00",
-      "radius": 10,
+      "color": "255, 180, 0, 180",
+      "radius": 8,
       "state": {
         "yellow": true
       }
     },
     {
       "block": "vdecostreetlamp:trafficsignal_horizontal",
-      "color": "#00ff00",
-      "radius": 10,
+      "color": "0, 255, 0, 180",
+      "radius": 8,
       "state": {
         "green": true
       }
